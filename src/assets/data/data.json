@@ -6,7 +6,7 @@
       "about":"Fathala Wildlife Reserve is an area that consists of 6000 hectares of original and protected forest. You have the opportunity to visit the original stretch of the African wilderness. In the reserve you can see giraffes, rhinos, buffaloes, antelopes and many other majestic animals.",
       "description": "We meet early in the morning and head to Banjul, where we will take the ferry and cross the Gambia river, arriving in Barra. Here we will meet our expert driver and get in the jeep, heading to Senegal. After crossing the border, we will shortly arrive in Fathala Wildlife reserve where our program starts, including the lion walk and the safari with a private guide. After our adventure, we journey back to The Gambia, pausing for a nice lunch at a local restaurant along the way.",
       "includes": "Lunch and cold drinks, tickets",
-      "photo": "src/assets/fathala.png",
+      "photo": "/assets/fathala.png",
       "duration": "Starting in the early morning, this trip takes half a day",
       "important": "Bring passport and yellow fever vaccination certificate, wear comfortable clothing",
       "price": "£150 per person"
@@ -18,7 +18,7 @@
   "about": "Kuntah Kinteh Island, formerly known as James Island, is a UNESCO World Heritage Site located in the Gambia River. The island holds significant historical and cultural importance, serving as a key trading post during the transatlantic slave trade era. Visitors have the opportunity to explore remnants of colonial fortifications, learn about the island's dark history, and engage with local communities to gain insight into Gambian culture and traditions.",
   "description": "Embark on a guided tour to Kuntah Kinteh Island, where you'll delve into the rich history and cultural heritage of this iconic UNESCO World Heritage Site. Departing from Kololi, we'll navigate the scenic Gambia River by boat, reaching the island in approximately 2 hours. Explore the island's historic landmarks, including colonial fortifications and remnants of the slave trade era. Engage with knowledgeable guides who will provide insights into the island's significance and share stories of its past. Immerse yourself in Gambian culture through interactions with local communities, discovering traditional practices and customs. After an enriching experience, we'll return to Kololi, concluding the tour.",
   "includes": "Boat transportation, guided tour, entrance fees",
-  "photo": "src/assets/kuntahkinteh.png",
+  "photo": "/assets/kuntahkinteh.png",
   "duration": "Approximately 6-8 hours",
   "important": "Wear comfortable clothing and footwear suitable for walking. Bring sunscreen, a hat, and plenty of water.",
   "price": "£80 per person"
@@ -30,7 +30,7 @@
   "about": "Serekunda Market is one of the largest and busiest markets in The Gambia, offering a vibrant and authentic shopping experience. Spread across bustling streets, the market showcases a diverse array of goods, including fresh produce, traditional crafts, clothing, and household items. Visitors have the opportunity to immerse themselves in Gambian daily life, interact with local vendors, and discover the rich tapestry of cultures that converge at this lively marketplace.",
   "description": "Embark on an exploration of Serekunda Market, where you'll dive into the heart of Gambian culture and commerce. Starting from Kololi, our journey takes us through the bustling streets of Serekunda, where the vibrant sights, sounds, and smells will captivate your senses. Explore the maze of stalls and shops, filled with an eclectic mix of goods ranging from fresh fruits and vegetables to colorful fabrics and handmade crafts. Engage with friendly local vendors, bargaining for souvenirs and experiencing the warmth of Gambian hospitality. As you wander through the market, immerse yourself in the lively atmosphere, witnessing daily life unfold before your eyes. After an enriching experience, we'll return to Kololi, concluding our exploration of Serekunda Market.",
   "includes": "Transportation, guided exploration",
-  "photo": "src/assets/serekunda.png",
+  "photo": "/assets/serekunda.png",
   "duration": "Approximately 4-6 hours",
   "important": "Wear comfortable clothing and walking shoes. Bring cash for purchases and be prepared for bargaining. Respect local customs and etiquette.",
   "price": "£40 per person"
@@ -42,7 +42,7 @@
   "about": "Lamin Lodge is a tranquil retreat nestled within the mangroves of The Gambia's coastal region. Surrounded by lush vegetation and serene waterways, the lodge offers a peaceful escape from the hustle and bustle of city life. Visitors have the opportunity to immerse themselves in nature, embark on scenic boat tours, and indulge in delicious Gambian cuisine amidst a picturesque setting.",
   "description": "Experience the tranquility of Lamin Lodge, where nature's beauty and cultural charm intertwine to create a memorable journey. Departing from Kololi, our adventure begins with a scenic boat tour through the mangroves, where you'll marvel at the rich biodiversity and serene landscapes. Arriving at Lamin Lodge, immerse yourself in the peaceful ambiance as you explore the elevated walkways and observation decks, offering panoramic views of the surrounding mangrove forests. Indulge in a sumptuous Gambian dining experience, savoring traditional dishes prepared with fresh, locally sourced ingredients. As you dine amidst the natural splendor, soak in the serenity of your surroundings and embrace the essence of Gambian hospitality. After a relaxing afternoon, we'll return to Kololi, concluding our Lamin Lodge experience.",
   "includes": "Transportation, scenic boat tour, Gambian dining experience",
-  "photo": "src/assets/laminlodge.png",
+  "photo": "/assets/laminlodge.png",
   "duration": "Approximately 5-7 hours",
   "important": "Wear comfortable clothing and footwear suitable for walking. Bring insect repellent and sunscreen. Don't forget your camera to capture the scenic beauty!",
   "price": "£50 per person"
@@ -54,7 +54,7 @@
   "about": "Tanji Fishing Village is a picturesque coastal community renowned for its vibrant fishing industry and traditional way of life. Situated along the Atlantic coastline of The Gambia, the village offers visitors a glimpse into the daily routines of local fishermen and the bustling activity of the fishing trade. Visitors have the opportunity to witness traditional fishing techniques, interact with local fishermen, and experience the authentic charm of Gambian coastal life.",
   "description": "Embark on an exploration of Tanji Fishing Village, where you'll discover the rich maritime heritage and cultural traditions of coastal Gambian communities. Departing from Kololi, our journey takes us to the picturesque shores of Tanji, where the rhythmic sounds of fishermen at work fill the air. Wander through the bustling fish market, where colorful boats unload their daily catch, and vibrant stalls showcase a variety of freshly caught seafood. Engage with friendly locals, learning about traditional fishing techniques and the importance of the fishing industry to the community's livelihood. As you explore the village, immerse yourself in the sights, sounds, and aromas of coastal life, gaining insight into Gambian culture and heritage. After an enriching experience, we'll return to Kololi, concluding our exploration of Tanji Fishing Village.",
   "includes": "Transportation, guided exploration",
-  "photo": "src/assets/tanji.png",
+  "photo": "/assets/tanji.png",
   "duration": "Approximately 5-6 hours",
   "important": "Wear comfortable clothing and footwear suitable for walking. Bring sunscreen, a hat, and plenty of water. Respect local customs and traditions.",
   "price": "£40 per person"
@@ -66,7 +66,7 @@
   "about": "Kartong Snake Farm is a unique conservation facility dedicated to protecting and studying the diverse reptile species found in The Gambia. Located in the coastal village of Kartong, the farm serves as an educational center where visitors can learn about local snake species, their habitats, and the importance of conservation efforts. Visitors have the opportunity to observe various snakes, including cobras, pythons, and vipers, while gaining insight into traditional beliefs and cultural perspectives surrounding these fascinating creatures.",
   "description": "Embark on a captivating journey to Kartong Snake Farm, where reptile conservation and cultural exploration converge to offer a memorable experience. Departing from Kololi, our excursion takes us to the coastal village of Kartong, home to the renowned snake farm. Upon arrival, immerse yourself in the world of reptiles as knowledgeable guides lead you through the farm's exhibits, showcasing a variety of snake species native to The Gambia. Learn about the ecological significance of these creatures and the farm's efforts to promote conservation and public awareness. Delve into Gambian culture as you discover the traditional beliefs and folklore surrounding snakes, gaining insight into the cultural significance of these reptiles. After an educational and enlightening tour, we'll return to Kololi, concluding our exploration of Kartong Snake Farm.",
   "includes": "Transportation, guided tour of the snake farm",
-  "photo": "src/assets/snakefarm.png",
+  "photo": "/assets/snakefarm.png",
   "duration": "Approximately 4-5 hours",
   "important": "Wear comfortable clothing and closed-toe shoes. Follow the guidance of farm staff and refrain from touching any animals without permission. Respect local customs and beliefs regarding snakes.",
   "price": "£50 per person"
@@ -78,7 +78,7 @@
       "about": "Janjanbureh, also known as Georgetown, is a historic town located on Janjanbureh Island in the middle of the Gambia River, within the Central River Region of The Gambia. It holds significant historical and cultural importance in the country. ",
       "description": "This epic journey begins from your hotel, crossing by ferry from Banjul to Barra on the North bank of the Gambia river. Driving through the local villages to see the real culture and traditions of local people. Janjanbureh or Georgetown is about 300km from Kololi Senegambia area by road. This is an overnight trip which gives you the chance to see the hippos, crocodiles, birds, monkeys and chimpanzees along the river Gambia and the Baboon island. The trip also gives you the opportunity to visit the legendary stone circles at Wasu village the same day or the next day. There is also a possibility to visit former slave houses in Georgetown.",
       "includes": "",
-      "photo": "src/assets/janjangburen.png",
+      "photo": "/assets/janjangburen.png",
       "duration": "This is an overnight trip",
       "important": "",
       "price": "£150 per person"
@@ -90,7 +90,7 @@
   "about": "Embark on customized birdwatching tours tailored to your preferences, where you'll explore the diverse avian habitats of The Gambia. With an abundance of bird species inhabiting various ecosystems across the country, including wetlands, forests, and savannas, The Gambia offers exceptional opportunities for birdwatching enthusiasts of all levels. Popular birdwatching destinations include:",
   "description": "Indulge your passion for birdwatching with customized excursions designed to showcase the rich avifauna of The Gambia. Whether you're a seasoned birder or a novice enthusiast, our expert guides will lead you to prime birdwatching locations, where you'll have the chance to spot a diverse array of bird species in their natural habitats. From the tranquil wetlands of Abuko Nature Reserve to the lush forests of Bijilo Forest Park, each destination offers unique birdwatching experiences and opportunities to observe both resident and migratory species. With flexible itineraries tailored to your preferences, you can immerse yourself in the captivating world of birdlife while exploring the scenic beauty of The Gambia.",
   "includes": "Transportation, expert birdwatching guide",
-  "photo": "src/assets/birds.png",
+  "photo": "/assets/birds.png",
   "duration": "Varies depending on itinerary",
   "important": "Wear comfortable clothing and footwear suitable for outdoor activities. Bring binoculars, a field guide, and a camera to enhance your birdwatching experience. Follow the guidance of your expert guide and adhere to ethical birdwatching practices.",
   "price": "Starting from £50 per person"
