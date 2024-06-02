@@ -1,7 +1,7 @@
 <template>
     <h1>About Me</h1>
     <div class="bicycle-rental-container">
-        <img src="@/assets/Haruna.jpeg"/>
+        <img src="@/assets/Haruna.jpeg" alt="your gambian tour guide"/>
         
             <p>My name is Haruna Ceesay, and I am a registered bicycle renter located at the Senegambia Strip in Kololi. With a passion for adventure and a deep love for my country, I am dedicated to offering unforgettable tours and trips to tourists visiting The Gambia. Whether you're looking to explore the local markets, discover the beauty of our national parks, or immerse yourself in the rich cultural heritage of our communities, I am here to guide you every step of the way. My tours are designed to provide an authentic experience, allowing you to see The Gambia through the eyes of a local. I look forward to sharing the beauty and excitement of my homeland with you.</p> 
     </div>

@@ -1,7 +1,7 @@
 <template>
     <hr>
       <footer>
-        <img src="@/assets/gambia-explore.png" class="footer-img"/>
+        <img src="@/assets/gambia-explore.png" class="footer-img" alt="Explore The Gambia"/>
         <p class="text-center">© 2024 Boxy Webdevelopment. All rights reserved.</p>
     </footer>
 </template>

@@ -15,7 +15,7 @@ onMounted(() => {
 <template>
   <div class="card-container">
     <div v-for="program in programData" :key="program.id" class="card">
- <div class="image"><img :src="program.photo" class="program-image"/></div>
+ <div class="image"><img :src="program.photo" class="program-image" alt="gambia programme tours"/></div>
   <div class="content">
     <a href="#">
       <span class="title">

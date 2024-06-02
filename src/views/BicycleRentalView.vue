@@ -1,7 +1,7 @@
 <template>
     <h1>Bicycle Rental</h1>
     <div class="bicycle-rental-container">
-        <img src="@/assets/bicycle.jpg"/>
+        <img src="@/assets/bicycle.jpg" alt="Gambia bicycle tours"/>
         
             <p>Renting a bicycle is a fantastic way to experience the area.<br/> Our rental rates are simple and affordable: 
                     <br/><span>Half day:</span> 350 dalasis.

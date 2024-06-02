@@ -11,7 +11,7 @@
                From peaceful river cruises to vibrant market explorations, we tailor each adventure to showcase the best of The Gambia. </p>
             </div>
             
-            <img class="paragraph-img" src="@/assets/picture.jpeg"/>
+            <img class="paragraph-img" src="@/assets/picture.jpeg" alt="gambia tours"/>
         </div>
 
         <!-- <a href="mailto:cyclewarriorgirl@gmail.com" target="_blank" rel="noopener noreferrer">E-mail</a> -->

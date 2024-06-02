@@ -10,7 +10,7 @@
 <h2><span>Email: </span> harunacesay490@gmail.com</h2>
 </div>
 <div class="map-container">
-    <img class="map" src="/src/assets/map.png" alt="map"/>
+    <img class="map" src="/src/assets/map.png" alt="Gambian tours"/>
 </div>
 </div>
 
